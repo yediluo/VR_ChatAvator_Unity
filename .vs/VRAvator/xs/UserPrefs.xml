@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{F8BD0DE2-A69D-3247-1B91-B7CA5B30A879}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Samples/OpenAI Unity/0.2.0/Whisper/Whisper.cs">
+    <Files>
+      <File FileName="Library/PackageCache/com.srcnalt.openai-unity@f7f501c076/Runtime/OpenAIApi.cs" Line="1" Column="1" />
+      <File FileName="Assets/UserInfoCollector.cs" />
+      <File FileName="Assets/AIInfoCollector.cs" />
+      <File FileName="Assets/TTS.cs" Line="39" Column="1" />
+      <File FileName="Assets/TTS_test.cs" Line="76" Column="59" />
+      <File FileName="Assets/ChatGPTManager.cs" Line="18" Column="30" />
+      <File FileName="Assets/Samples/OpenAI Unity/0.2.0/Whisper/Whisper.cs" Line="78" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VRAvator" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Samples" expanded="True">
+                <Node name="OpenAI Unity" expanded="True">
+                  <Node name="0.2.0" expanded="True">
+                    <Node name="Whisper" expanded="True">
+                      <Node name="Whisper.cs" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="65c2a186-5331-42d8-93e8-cf3b5f2099f8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
