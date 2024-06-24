@@ -24,7 +24,7 @@ public class ChatGPTManager : MonoBehaviour
     {
         // Assuming the OpenAIApi class has a constructor or method that accepts an API key.
         // Please replace "sk-123" with your actual API key.
-        openAI = new OpenAIApi("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");
+        openAI = new OpenAIApi("");
     }
 
     
