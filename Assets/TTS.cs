@@ -20,7 +20,7 @@ public class SpeechRequest
 
 public class TTS : MonoBehaviour
 {
-    private string apiKey = "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";
+    private string apiKey = "";
 
     private string baseUrl = "https://api.openai.com/v1/audio/speech";
     private string model = "tts-1-hd";
